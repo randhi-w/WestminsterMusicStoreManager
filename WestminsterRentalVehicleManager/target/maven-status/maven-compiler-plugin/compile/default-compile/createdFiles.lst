@@ -1,0 +1,4 @@
+com\example\WestminsterRentalVehicleManager\controllers\VehicleManagerController.class
+com\example\WestminsterRentalVehicleManager\VehicleManagerModel\Vehicle.class
+com\example\WestminsterRentalVehicleManager\repositories\RentalVehicleManagerRepository.class
+com\example\WestminsterRentalVehicleManager\WestminsterRentalVehicleManagerApplication.class
